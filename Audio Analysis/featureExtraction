@@ -54,8 +54,6 @@ def audio_analysis_file(video_folder, csv_file):
             f2[index] = mel_spectrogram_mean
             f3[index] = spectral_contrast_mean
 
-
-
         except Exception as e:
             print(f"Error processing video {video_file}: {e}")
 
@@ -68,7 +66,6 @@ def audio_analysis_file(video_folder, csv_file):
     df.to_csv(csv_file, index=False)
     print("CSV file updated")
 
-# Example usage
 video_folder = "../../Dataset/Train/"
 csv_file = "Ross_train.csv"
 startTime = time.time()
