@@ -1,4 +1,4 @@
-**IITKGP Internship Project Overview**
+**Project Overview**
 
 Dataset Preparation
 
