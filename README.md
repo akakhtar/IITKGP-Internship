@@ -13,9 +13,9 @@ Each of the three folders (Train, Dev, and Test) was split into six files, one f
 
 Data Processing
 
-Mapping and Sequence Numbering:
+Mapping and Scene Numbering:
 
-We performed mapping of emotions and allocated sequence numbers for dialogues.
+We performed mapping of emotions and allocated scene numbers for dialogues.
 
 Generation of Self-Report Dataset:
 
