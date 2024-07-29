@@ -1,0 +1,490 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,valence,arousal
+1,"Oh my God, hes lost it. Hes totally lost it.",Phoebe,sadness,negative,0,0,4,7,"00:20:57,256","00:21:00,049",0,0
+4,Youre a genius!,Chandler,joy,positive,1,1,4,4,"00:12:32,334","00:12:33,960",1,1
+5,"Aww, man, now we wont be bank buddies!",Joey,sadness,negative,1,2,4,4,"00:12:34,211","00:12:37,505",0,0
+8,Hey!,All,joy,positive,1,5,4,4,"0:12:44,074","0:12:45,189",1,1
+14,"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",Phoebe,anger,negative,1,11,4,4,"00:12:59,195","00:13:10,163",0,1
+16,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,Joey,joy,positive,1,13,4,4,"00:13:10,372","00:13:17,712",1,1
+23,Yeah!,Joey,joy,positive,2,4,6,4,"0:09:14,476","0:09:15,728",1,1
+26,Yeah!!,Ross,joy,positive,3,1,5,20,"0:01:02,271","0:01:03,961",1,1
+34,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",Ross,anger,negative,4,6,7,7,"00:14:51,932","00:15:11,743",0,1
+43,You had no right to tell me you ever had feelings for me.,Ross,anger,negative,5,0,2,7,"00:18:28,565","00:18:31,234",0,1
+45,I was doing great with Julie before I found out about you.,Ross,anger,negative,5,2,2,7,"00:18:31,693","00:18:35,196",0,1
+46,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",Rachel,anger,negative,5,3,2,7,"00:18:35,364","00:18:39,951",0,1
+47,The point is I...,Ross,anger,negative,5,4,2,7,"0:19:12,818","0:19:14,030",0,1
+48,"I don't need this right now, OK.",Ross,anger,negative,5,5,2,7,"0:19:14,030","0:19:15,699",0,1
+49,"It, it's too late, I'm with somebody else, I'm happy.",Ross,anger,negative,5,6,2,7,"00:19:15,821","00:19:20,741",0,1
+50,This ship has sailed.,Ross,anger,negative,5,7,2,7,"00:19:17,781","00:19:20,741",0,1
+51,"Alright, fine, you go ahead and you do that, alright Ross.",Rachel,anger,negative,5,8,2,7,"0:19:27,166","0:19:29,588",0,1
+52,Fine.,Ross,anger,negative,5,9,2,7,"0:19:29,588","0:19:29,727",0,1
+53,Cause I don't need your stupid ship.,Rachel,anger,negative,5,10,2,7,"00:19:29,835","00:19:31,210",0,1
+54,Good.,Ross,anger,negative,5,11,2,7,"0:19:31,378","0:19:32,440",0,1
+55,Good.,Rachel,anger,negative,5,12,2,7,"0:19:32,440","0:19:33,256",0,1
+56,"Oh, it's so romantic to send people off on their honeymoon.",Phoebe,joy,positive,6,0,8,3,"00:03:10,273","00:03:14,610",1,1
+61,I left my guitar in their apartment.,Phoebe,sadness,negative,6,5,8,3,"0:03:27,415","0:03:29,417",0,0
+66,Wow! It looks like we got a lot of good stuff.,Ross,joy,positive,7,0,8,20,"00:15:01,722","00:15:03,557",1,1
+67,"Oh we did, but my mom got us the greatest gift of all.",Rachel,joy,positive,7,1,8,20,"00:15:03,724","00:15:06,560",1,1
+71,Yes! Shes gonna help us take care of the baby! Woo-hoo.,Rachel,joy,positive,7,5,8,20,"00:15:15,861","00:15:19,656",1,1
+73,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",Ross,anger,negative,7,7,8,20,"00:15:22,910","00:15:27,247",0,1
+74,Shell drive us totally crazy.,Ross,disgust,negative,7,8,8,20,"0:15:27,414","0:15:28,999",0,1
+75,Hi Ross!,Mrs. Green,joy,positive,7,9,8,20,"0:15:28,999","0:15:29,508",1,1
+76,Hi roomie!,Ross,joy,positive,7,10,8,20,"00:15:29,625","00:15:31,835",1,1
+85,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",Monica,joy,positive,8,7,7,19,"00:03:35,506","00:03:42,304",1,1
+92,Its really sweet and-and tender.,Joey,joy,positive,8,14,7,19,"00:03:58,196","00:04:01,240",1,1
+94,"Nothing, Monica and I had a stupid fight.",Chandler,sadness,negative,9,1,6,3,"00:05:24,073","00:05:26,199",0,0
+96,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",Chandler,joy,positive,9,3,6,3,"00:05:30,872","00:05:34,291",1,1
+103,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",Chandler,fear,negative,10,2,5,20,"00:06:57,125","00:07:00,752",0,1
+104,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",Joey,joy,positive,10,3,5,20,"00:07:01,254","00:07:07,342",1,1
+105,It's a witness not a perp. And no one talks like that!,Gary,anger,negative,10,4,5,20,"0:07:07,593","0:07:10,096",0,1
+106,"Yeah, no one talks like that!",Ross,anger,negative,10,5,5,20,"0:07:10,096","0:07:10,240",0,1
+107,Oh what? Like your Mr. Cop!,Joey,anger,negative,10,6,5,20,"0:07:14,475","0:07:16,237",0,1
+108,"Hey, I'm more cop than you two!",Ross,anger,negative,10,7,5,20,"0:07:16,237","0:07:18,231",0,1
+115,"Rachel Karen Green, where's the other earring?!",Phoebe,anger,negative,11,4,5,19,"00:05:40,590","00:05:43,050",0,1
+116,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",Rachel,fear,negative,11,5,5,19,"00:05:43,259","00:05:46,261",0,1
+118,"Well, what am I going to tell Monica? She wants to wear them tonight!",Phoebe,fear,negative,11,7,5,19,"00:05:50,183","00:05:53,518",0,1
+119,Tell her to wear her own earrings.,Rachel,anger,negative,11,8,5,19,"0:05:53,728","0:05:57,065",0,1
+121,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,Rachel,anger,negative,11,10,5,19,"00:05:57,315","00:06:03,570",0,1
+123,Because I lose her stuff!,Rachel,anger,negative,11,12,5,19,"0:06:05,631","0:06:07,379",0,1
+131,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,Phoebe,sadness,negative,12,4,7,24,"00:12:08,060","00:12:13,481",0,0
+133,I already had a baby. Leave me alone.,Phoebe,anger,negative,13,1,5,3,"00:16:04,755","00:16:07,048",0,1
+134,"Okay, okay, come on, you can do it. You can do it!",Frank,joy,positive,13,2,5,3,"00:16:07,257","00:16:10,593",1,1
+135,Yeah!!,Frank,joy,positive,13,3,5,3,"00:16:18,352","00:16:19,769",1,1
+136,Little Leslie is here!,Frank,joy,positive,13,4,5,3,"0:16:20,479","0:16:22,451",1,1
+140,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",Frank,joy,positive,13,8,5,3,"00:16:34,034","00:16:38,579",1,1
+141,"All right, he's coming. He's coming!",Dr. Harad,joy,positive,13,9,5,3,"00:16:39,456","00:16:41,541",1,1
+148,"Okay, keep saying it!",Chandler,joy,positive,13,16,5,3,"00:17:05,649","00:17:07,316",1,1
+150,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",Frank,joy,positive,13,18,5,3,"00:17:11,989","00:17:14,407",1,1
+152,Yeah.,Frank,joy,positive,13,20,5,3,"00:17:16,410","00:17:17,452",1,1
+153,"Oh, we have our babies.",Alice,joy,positive,13,21,5,3,"00:17:18,412","00:17:19,579",1,1
+154,Hey Toby!,Bob,joy,positive,14,0,8,5,"0:16:07,675","0:16:08,267",1,1
+158,"I want to talk to that bastard, see what his problem is.",Bob,anger,negative,14,4,8,5,"00:16:26,110","00:16:28,945",0,1
+159,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",Chandler,sadness,negative,14,5,8,5,"00:16:29,113","00:16:35,410",0,0
+160,Toby dont.,Bob,sadness,negative,14,6,8,5,"0:16:35,577","0:16:36,849",0,0
+161,Bob!,Chandler,sadness,negative,14,7,8,5,"0:16:36,849","0:16:37,541",0,0
+162,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,Bob,anger,negative,14,8,8,5,"00:16:37,663","00:16:45,920",0,1
+164,Thank you.  Oh Joey and look at this crib! Its so cute!,Rachel,joy,positive,15,0,8,7,"00:20:49,414","00:20:58,464",1,1
+165,I know! I found it on the street.,Joey,joy,positive,15,1,8,7,"00:20:58,632","00:21:00,675",1,1
+170,Its moving.,Rachel,fear,negative,15,6,8,7,"0:21:09,060","0:21:09,217",0,1
+171,Ew.,Joey,disgust,negative,15,7,8,7,"00:21:09,309","00:21:10,685",0,1
+172,Its stillIts got a tail! Get it out of here! Get it out of here!!,Rachel,fear,negative,15,8,8,7,"0:21:10,852","0:21:12,479",0,1
+173,Ooh! Ah! Okay!,Joey,fear,negative,15,9,8,7,"0:21:12,479","0:21:13,247",0,1
+175,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,Kyle,sadness,negative,16,1,7,5,"00:19:44,224","00:19:52,732",0,0
+177,Were gonna give it another try.,Kyle,joy,positive,16,3,7,5,"00:20:02,910","00:20:04,785",1,1
+178,What about her whining and her constant need for attention?!,Phoebe,anger,negative,16,4,7,5,"00:20:04,953","00:20:08,581",0,1
+180,"Oh right, because youre so capable of change.",Phoebe,anger,negative,16,6,7,5,"00:20:10,125","00:20:12,418",0,1
+181,"Yknow, he hums when he pees!",Ross,anger,negative,16,7,7,5,"00:20:13,921","00:20:16,088",0,1
+183,"It makes him miss the bowl, but whatever.",Ross,disgust,negative,16,9,7,5,"0:20:19,232","0:20:22,446",0,1
+184,Were so sorry.,Whitney,sadness,negative,16,10,7,5,"00:20:23,388","00:20:25,348",0,0
+185,"Thats all right, we-we dont need you. In fact, hey Im over it already.",Ross,anger,negative,16,11,7,5,"00:20:26,183","00:20:30,019",0,1
+186,"Yeah, and yknow what? I dont give a tiny rats ass.",Phoebe,anger,negative,16,12,7,5,"00:20:30,187","00:20:33,397",0,1
+188,"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",Ross,sadness,negative,16,14,7,5,"00:20:40,906","00:20:47,203",0,0
+190,"Yeah, we're better off without them.",Ross,anger,negative,16,16,7,5,"00:21:01,093","00:21:04,470",0,1
+191,"And yknow, even if they break up again, youd better not let him in your sad mens club!",Phoebe,anger,negative,16,17,7,5,"00:21:04,846","00:21:09,141",0,1
+192,Divorced mens club.,Ross,sadness,negative,16,18,7,5,"00:21:09,309","00:21:12,603",0,0
+194,Why isnt that valet back with my Porsche?,Joey,anger,negative,17,0,6,5,"00:14:50,514","00:14:54,183",0,1
+195,Maybe because youve got the keys?,Passerby,anger,negative,17,1,6,5,"00:14:55,603","00:14:57,520",0,1
+197,This is totally your fault!,Rachel,anger,negative,17,2,6,5,"0:15:03,110","0:15:04,582",0,1
+198,My fault?! You threatened the judge!,Ross,anger,negative,17,3,6,5,"0:15:04,582","0:15:07,079",0,1
+199,"Well, you ripped the paper out of the court reporters machine!!",Rachel,anger,negative,17,4,6,5,"00:15:07,197","00:15:10,116",0,1
+210,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,Monica,fear,negative,18,4,6,22,"00:16:20,312","00:16:25,566",0,1
+211,I know!,Monica,fear,negative,18,5,6,22,"0:16:26,944","0:16:27,320",0,1
+212,How bad is this?,Monica,fear,negative,18,6,6,22,"0:16:27,320","0:16:28,826",0,1
+214,"Well for the regular guy, its bad, but Chandler, Oh dear God!",Phoebe,fear,negative,18,7,6,22,"00:16:28,946","00:16:33,074",0,1
+215,I know! I know! And he totally freaked out and I cant find him anywhere!,Monica,fear,negative,18,8,6,22,"00:16:34,660","00:16:37,662",0,1
+217,"Well, Im never gonna listen to you again, thats for sure!",Monica,anger,negative,18,10,6,22,"0:16:38,831","0:16:41,285",0,1
+220,Well Rachels not here!,Monica,anger,negative,18,13,6,22,"0:16:46,728","0:16:47,766",0,1
+222,"Damnit, damnit, damnit, damnit.",Ross,anger,negative,19,1,1,23,"0:14:20,234","0:14:23,156",0,1
+223,This is all your fault.,Ross,anger,negative,19,2,1,23,"0:14:23,156","0:14:24,118",0,1
+224,"This is supposed to be, like, the greatest day of my life, y'know?",Ross,anger,negative,19,3,1,23,"00:14:24,280","00:14:26,948",0,1
+225,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",Ross,anger,negative,19,4,1,23,"00:14:27,116","00:14:32,161",0,1
+226,The woman I love is having a baby today. I've been waiting for this just as much as you have.,Susan,anger,negative,19,5,1,23,"00:14:32,329","00:14:35,665",0,1
+227,"No no no, believe me.",Ross,anger,negative,19,6,1,23,"0:14:35,833","0:14:37,095",0,1
+228,"No one has been waiting for this as much as I have, ok?",Ross,anger,negative,19,7,1,23,"0:14:37,095","0:14:39,055",0,1
+230,"When this day is over, you get to go home with the baby, ok?",Ross,anger,negative,19,9,1,23,"00:14:41,046","00:14:43,631",0,1
+231,Where does that leave me?,Ross,sadness,negative,19,10,1,23,"0:14:43,799","0:14:44,551",0,0
+234,Who am I?,Susan,anger,negative,19,13,1,23,"0:14:47,517","0:14:50,183",0,1
+235,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",Susan,sadness,negative,19,14,1,23,"00:14:50,306","00:14:52,599",0,0
+237,This is so great.,Phoebe,joy,positive,19,16,1,23,"00:14:58,063","00:14:59,814",1,1
+239,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",Phoebe,sadness,negative,19,18,1,23,"00:15:06,280","00:15:16,664",0,0
+240,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,Phoebe,joy,positive,19,19,1,23,"00:15:17,791","00:15:27,842",1,1
+241,And it's not even born yet.,Phoebe,sadness,negative,19,20,1,23,"00:15:25,424","00:15:27,842",0,0
+242,"It's just, it's just the luckiest baby in the whole world.",Phoebe,joy,positive,19,21,1,23,"00:15:28,010","00:15:30,553",1,1
+243,"I'm sorry, you were fighting.",Phoebe,sadness,negative,19,22,1,23,"00:15:33,349","00:15:35,433",0,0
+246,"I'm doing just fine! God, Tiffany, you smell so great!",Rachel,joy,positive,20,2,5,10,"00:21:41,633","00:21:44,385",1,1
+248,"Oh, y'know Joey, you are sick!",Rachel,disgust,negative,20,4,5,10,"0:21:55,230","0:21:57,662",0,1
+249,This is disgusting!,Monica,disgust,negative,20,5,5,10,"0:21:57,662","0:21:58,196",0,1
+250,I'm not reading this!,Rachel,disgust,negative,20,6,5,10,"00:21:58,317","00:22:00,109",0,1
+265,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",Ross,anger,negative,22,6,1,4,"00:17:47,274","00:17:51,652",0,1
+274,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",Phoebe,sadness,negative,23,1,3,6,"00:17:22,958","00:17:27,128",0,0
+275,"My marriage, I think my marriage is um, is kinda over.",Ross,sadness,negative,23,2,3,6,"00:17:27,337","00:17:34,135",0,0
+277,"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",Ross,sadness,negative,23,4,3,6,"00:17:34,303","00:17:49,484",0,0
+279,Im an idiot.,Ross,disgust,negative,23,6,3,6,"00:17:59,369","00:18:00,661",0,1
+280,"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",Ross,sadness,negative,23,7,3,6,"00:18:03,499","00:18:13,674",0,0
+283,Im sorry.,Phoebe,sadness,negative,23,10,3,6,"00:18:33,529","00:18:34,570",0,0
+284,Seven years.,Ross,sadness,negative,23,11,3,6,"00:18:37,199","00:18:38,866",0,0
+285,"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",Ross,sadness,negative,23,12,3,6,"00:18:39,576","00:18:48,876",0,0
+286,"Aw, God Ross. Oh.",Phoebe,sadness,negative,23,13,3,6,"00:18:50,712","00:18:52,046",0,0
+289,"Look he knows he did a terrible thing and I believe him, hes sorry.",Joey,sadness,negative,24,2,3,11,"00:19:52,357","00:19:57,904",0,0
+291,"Okay, absolutely!",Chandler,joy,positive,24,4,3,11,"0:20:00,908","0:20:02,180",1,1
+294,"Cookie, now you can punch him!",Joey,anger,negative,24,7,3,11,"0:20:13,545","0:20:15,089",0,1
+296,"All right, that's it, I quit.",Phoebe,anger,negative,25,0,2,1,"0:13:25,095","0:13:26,555",0,1
+298,"Yeah, but this  isn't the face of a person who trusts a person.",Phoebe,anger,negative,25,2,2,1,"00:13:28,557","00:13:32,310",0,1
+299,"Ok, this  is the face of a person who, you know, doesn't trust a person.",Phoebe,anger,negative,25,3,2,1,"00:13:32,478","00:13:37,690",0,1
+300,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",Monica,sadness,negative,25,4,2,1,"00:13:38,818","00:13:44,405",0,0
+301,Would you relax? I know what I am doing. This is how he wears it.,Phoebe,anger,negative,25,5,2,1,"00:13:44,573","00:13:50,870",0,1
+309,"Honey, wait. We only did it once. It didn't mean anything to me.",Monica,sadness,negative,26,7,2,2,"00:11:12,755","00:11:18,510",0,0
+310,"Yeah, right.  Sure!",Rachel,anger,negative,26,8,2,2,"00:11:20,012","00:11:21,805",0,1
+311,"Really, Rachel, I was thinking of you the whole time.",Monica,sadness,negative,26,9,2,2,"00:11:21,972","00:11:24,849",0,0
+312,"Look, I'm sorry, all right.",Monica,sadness,negative,26,10,2,2,"0:11:27,853","0:11:30,865",0,0
+313,I never meant for you to find out!,Monica,sadness,negative,26,11,2,2,"0:11:30,865","0:11:32,163",0,0
+314,"Oh, please, you wanted to get caught.",Rachel,anger,negative,26,12,2,2,"00:11:32,274","00:11:35,985",0,1
+315,That is not true!,Monica,anger,negative,26,13,2,2,"00:11:36,445","00:11:37,696",0,1
+316,"Oh, so you just sort of happened to leave it in here?",Rachel,anger,negative,26,14,2,2,"00:11:37,905","00:11:40,323",0,1
+317,Did it ever occur to you that I might just be that stupid?,Monica,anger,negative,26,15,2,2,"00:11:41,409","00:11:45,120",0,1
+318,"Ok, Monica. I just have to know one thing. Did you go with her to",Rachel,sadness,negative,26,16,2,2,"00:11:47,039","00:11:55,171",0,0
+323,Why not?,Chandler,sadness,negative,27,3,8,1,"0:01:32,968","0:01:33,738",0,0
+326,"Phoebe, come on, you have to tell us.",Monica,anger,negative,27,6,8,1,"00:01:41,976","00:01:44,103",0,1
+331,"Oh, this life! Oh okay no, Chandler's is worse.",Phoebe,sadness,negative,28,1,5,8,"00:04:04,118","00:04:06,995",0,0
+332,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",Joey,joy,positive,28,2,5,8,"00:04:08,831","00:04:14,044",1,1
+335,"Oh, let's not tell this story.",Monica,sadness,negative,28,5,5,8,"0:04:22,178","0:04:23,780",0,0
+336,"Oh, come on!",All,sadness,negative,28,6,5,8,"0:04:23,780","0:04:24,782",0,0
+337,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",Phoebe,joy,positive,28,7,5,8,"00:04:24,889","00:04:30,394",1,1
+341,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",Monica,anger,negative,29,0,1,15,"00:15:52,368","00:15:56,496",0,1
+343,Wendy bailed. I have no waitress.,Monica,sadness,negative,29,2,1,15,"00:16:07,049","00:16:10,218",0,0
+344,Oh... that's too bad. Bye bye.,Rachel,sadness,negative,29,3,1,15,"00:16:11,971","00:16:15,974",0,0
+349,"You know, Rachel, when you ran out of your wedding, I was there for you.",Monica,anger,negative,29,8,1,15,"00:16:25,792","00:16:28,319",0,1
+350,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",Monica,anger,negative,29,9,1,15,"00:16:28,487","00:16:35,034",0,1
+351,Done.,Rachel,joy,positive,29,10,1,15,"00:16:36,370","00:16:37,662",1,1
+352,"The reactors gonna blow in three seconds, were never gonna make it!",Joey,fear,negative,30,0,6,20,"00:00:05,005","00:00:08,549",0,1
+353,Youve got to get out of here! Save yourself!,Phoebe,fear,negative,30,1,6,20,"00:00:08,717","00:00:11,802",0,1
+354,No! I wont leave you!,Joey,fear,negative,30,2,6,20,"00:00:13,555","00:00:15,014",0,1
+355,"Dont worry about me, Im a robot! Im just a machine!!",Phoebe,sadness,negative,30,3,6,20,"00:00:15,181","00:00:20,060",0,0
+356,No youre not! Not to me!,Joey,anger,negative,30,4,6,20,"0:00:21,521","0:00:23,523",0,1
+360,"Yeah, youre great! Okay, lets take it from",Joey,joy,positive,30,8,6,20,"00:00:29,446","00:00:35,159",1,1
+361,"No, I mean I was really acting my ass off.",Phoebe,joy,positive,30,9,6,20,"00:00:31,031","00:00:35,159",1,1
+362,"Yeah, I thought I was pretty good too.",Joey,joy,positive,30,10,6,20,"00:00:36,327","00:00:38,078",1,1
+365,Fine!,Phoebe,anger,negative,30,13,6,20,"0:00:47,547","0:00:48,219",0,1
+366,Ill do it without you!,Phoebe,anger,negative,30,14,6,20,"0:00:48,219","0:00:50,279",0,1
+367,I dont need you or anybody else!,Phoebe,anger,negative,30,15,6,20,"00:00:50,800","00:00:53,552",0,1
+368,Im gonna make it on my own!,Phoebe,anger,negative,30,16,6,20,"00:00:53,803","00:00:56,346",0,1
+369,Youll see!!,Phoebe,anger,negative,30,17,6,20,"0:00:57,682","0:01:00,435",0,1
+371,I can't believe that Ross is gone. It is just so sad.,Kori,sadness,negative,31,0,9,17,"00:22:08,315","00:22:11,902",0,0
+373,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,Kori,sadness,negative,31,2,9,17,"00:22:14,362","00:22:25,749",0,0
+376,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,Kori,sadness,negative,31,5,9,17,"00:22:33,507","00:22:39,554",0,0
+377,But you didn't!,Ross,joy,positive,31,6,9,17,"00:22:39,971","00:22:42,265",1,1
+378,I'm still alive!!,Ross,joy,positive,31,7,9,17,"00:22:44,059","00:22:45,852",1,1
+379,"Kori, I know this is a big surprise for you.",Ross,joy,positive,31,8,9,17,"00:22:47,103","00:22:49,606",1,1
+380,It's a long story but the things    you just said really made my day!,Ross,joy,positive,31,9,9,17,"00:22:49,815","00:22:53,944",1,1
+381,"I mean, the fact that you are here means more    to me than if this room were filled with people!",Ross,joy,positive,31,10,9,17,"00:22:54,110","00:22:59,517",1,1
+382,"You sick freak, who does that? I can't believe I had a crush on    you!",Kori,anger,negative,31,11,9,17,"00:22:59,825","00:23:04,120",0,1
+383,Did you hear that? Kori Weston had a crush on me!!,Ross,joy,positive,31,12,9,17,"00:23:09,584","00:23:15,257",1,1
+393,Do them!!,Ross,anger,negative,32,9,8,22,"00:11:28,968","00:11:34,056",0,1
+398,What is wrong with Emma?,Chandler,sadness,negative,33,0,9,2,"00:13:18,339","00:13:20,507",0,0
+406,"You know, I, you know, can't do this.",Ross,fear,negative,34,6,1,9,"00:14:54,101","00:14:56,853",0,1
+407,"Uh, this is too weird.",Ross,disgust,negative,34,7,1,9,"0:14:57,021","0:14:59,023",0,1
+408,I feel stupid.,Ross,sadness,negative,34,8,1,9,"0:14:59,023","0:15:00,168",0,0
+410,"Hello, baby. Hello, hello.",Ross,joy,positive,34,10,1,9,"00:15:06,071","00:15:10,742",1,1
+418,Easy. Easy. You have to go to the hospital. Okay?,Ross,fear,negative,36,0,3,21,"00:15:26,342","00:15:30,345",0,1
+423,"Okay. Oh wait, wait-wait, youre not gonna come with me?",Rachel,sadness,negative,36,5,3,21,"00:15:35,309","00:15:37,135",0,0
+428,"What?! I wh-, whats wrong?",Ross,fear,negative,36,10,3,21,"00:15:53,535","00:15:54,661",0,1
+429,"Im sorry, I just cant go to the hospital lookin like this.",Rachel,disgust,negative,36,11,3,21,"00:15:54,828","00:15:58,498",0,1
+431,"Run! Run you crazy, rich freak!",Chandler,fear,negative,37,1,3,24,"00:22:03,488","00:22:06,157",0,1
+432,"Oh, I cant watch this.",Rachel,fear,negative,37,2,3,24,"00:22:07,826","00:22:09,076",0,1
+435,No-o-o!!,Joey,fear,negative,37,5,3,24,"0:22:12,838","0:22:13,295",0,1
+436,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",TV Announcer,fear,negative,37,6,3,24,"00:22:15,751","00:22:20,171",0,1
+437,Oh! Oh!,All,disgust,negative,37,7,3,24,"00:22:20,422","00:22:21,672",0,1
+441,"Dude, you dont have to brag! We got nothing here!!",Joey,anger,negative,38,0,4,2,"00:21:29,705","00:21:33,165",0,1
+443,"We could, or we can have sex in it.",Monica,joy,positive,39,1,8,24,"00:01:11,851","00:01:15,104",1,1
+444,"Well let me think about that, while I remove my pants!",Chandler,joy,positive,39,2,8,24,"00:01:16,439","00:01:19,484",1,1
+447,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",Rachel,disgust,negative,40,2,8,5,"00:06:45,822","00:06:50,575",0,1
+451,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",Rachel,anger,negative,40,6,8,5,"00:06:56,874","00:06:58,750",0,1
+453,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",Rachel,fear,negative,40,8,8,5,"0:07:12,598","0:07:14,851",0,1
+454,"Rach look, I really dont think thats such a great",Joey,sadness,negative,40,9,8,5,"0:07:14,851","0:07:16,450",0,0
+455,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",Rachel,joy,positive,40,10,8,5,"00:07:16,561","00:07:21,273",1,1
+459,Ah! Ah! I forgot my jacket!,Ross,anger,negative,42,0,5,1,"00:21:09,768","00:21:11,769",0,1
+461,You tell them to wait!,Ross,anger,negative,42,1,5,1,"00:21:11,937","00:21:14,230",0,1
+464,Oh no-no-no! Oh-no!  No! No! Emily!,Ross,anger,negative,42,4,5,1,"00:21:28,036","00:21:34,709",0,1
+467,I know. You're the guy who wouldn't chip in for the handyman.,The Hot Girl,sadness,negative,44,0,5,17,"00:13:12,416","00:13:15,835",0,0
+468,Nevermind!,Ross,anger,negative,44,1,5,17,"00:13:17,630","00:13:18,922",0,1
+473,Sure! That would be nice.,Jen,joy,positive,44,5,5,17,"00:13:45,366","00:13:47,116",1,1
+475,Oh! My number is on there.  Give me a call.,Jen,joy,positive,44,7,5,17,"00:13:49,537","00:13:52,622",1,1
+478,Okay!,Ross,joy,positive,44,10,5,17,"0:13:56,046","0:13:57,005",1,1
+489,"Oh, no-no-no-no-no-no!!",Chandler,fear,negative,45,9,3,17,"00:09:28,192","00:09:29,568",0,1
+491,My lighters in there!,Chandler,fear,negative,45,11,3,17,"0:09:30,820","0:09:32,729",0,1
+500,"Itll kill him. I mean itll, itll just kill him.",Joey,fear,negative,46,8,3,8,"00:03:02,182","00:03:04,474",0,1
+510,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",Carol,joy,positive,47,6,3,17,"00:12:29,373","00:12:34,544",1,1
+516,"Oh, oh, oh, Ill get Rainy Day Bear!!",Rachel,joy,positive,48,1,3,8,"00:06:13,289","00:06:14,956",1,1
+517,"Because hell know what to do?  Oh my God, youre a genius!",Monica,joy,positive,48,2,3,8,"00:06:15,124","00:06:19,378",1,1
+518,"Oh God, oh God, its sowed on though.",Rachel,fear,negative,48,3,3,8,"00:06:19,545","00:06:21,463",0,1
+522,"Oh, its just like a bloodbath in here today.",Rachel,sadness,negative,48,7,3,8,"00:06:27,303","00:06:30,806",0,0
+523,Please. This is so your fault.,Ross,anger,negative,49,0,1,23,"0:09:14,804","0:09:18,446",0,1
+525,"Look, Carol never threw me out of a room before you came along.",Ross,anger,negative,49,2,1,23,"00:09:18,724","00:09:21,685",0,1
+526,"Yeah? Well, there's a lot of things Carol never did before I came along.",Susan,anger,negative,49,3,1,23,"00:09:21,894","00:09:25,480",0,1
+531,"Hey, hey, ok, all right, that's it!",Phoebe,anger,negative,49,6,1,23,"00:09:29,735","00:09:33,947",0,1
+532,Get in here.,Phoebe,anger,negative,49,7,1,23,"00:09:32,947","00:09:34,447",0,1
+534,"My god, you guys, I don't believe you.",Phoebe,anger,negative,49,9,1,23,"00:09:34,615","00:09:38,410",0,1
+535,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,Phoebe,anger,negative,49,10,1,23,"00:09:38,578","00:09:45,458",0,1
+536,"So just stop all the yelling, just stop it!",Phoebe,anger,negative,49,11,1,23,"00:09:45,626","00:09:48,086",0,1
+538,"Don't make me do this again, I don't like my voice like this.",Phoebe,anger,negative,49,13,1,23,"00:09:50,881","00:09:54,593",0,1
+542,Son of a bitch!,The Dry Cleaner,anger,negative,50,2,6,22,"0:17:05,671","0:17:06,747",0,1
+545,"Yknow sometimes the good ideas are just right in front of you, arent they?",Chandler,joy,positive,51,1,6,17,"00:15:07,907","00:15:11,618",1,1
+550,Pizza!! We like Pizza!! Get out!!!,Joey,anger,negative,51,6,6,17,"00:15:30,054","00:15:33,014",0,1
+552,"Sure, I love this part!",Monica,joy,positive,52,1,6,24,"00:20:39,696","00:20:42,073",1,1
+554,"Really? In the moment, I really wanted to kiss you too. In the moment.",Joey,joy,positive,53,0,6,10,"00:19:45,559","00:19:52,440",1,1
+556,But only in the moment. So do ya wanna kiss again?,Joey,joy,positive,53,2,6,10,"00:19:53,983","00:20:01,616",1,1
+561,"Joey, you dont have to count down every time we kiss.",Janine,joy,positive,53,7,6,10,"00:20:18,175","00:20:20,468",1,1
+562,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",Joey,joy,positive,53,8,6,10,"00:20:20,719","00:20:28,684",1,1
+567,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",Phoebe,joy,positive,54,2,1,4,"00:00:05,422","00:00:15,556",1,1
+570,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",Rachel,disgust,negative,54,5,1,4,"00:00:26,234","00:00:31,405",0,1
+573,Probably kill myself!,Joey,sadness,negative,54,8,1,4,"00:00:38,538","00:00:40,831",0,0
+575,"Hey, if Little Joey's dead, then I got no reason to live!",Joey,sadness,negative,54,10,1,4,"00:00:43,418","00:00:47,087",0,0
+578,Im sorry.,Kate,sadness,negative,55,0,6,1,"00:03:46,100","00:03:48,769",0,0
+579,"Joey, onstage!",Stage Manager,anger,negative,56,0,3,22,"00:19:48,103","00:19:50,354",0,1
+580,Well can you at least stay to the end of the play?,Joey,sadness,negative,56,1,3,22,"00:19:51,106","00:19:53,274",0,0
+581,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",Joey,sadness,negative,56,2,3,22,"00:19:53,442","00:19:56,227",0,0
+583,Flights in an hour. I-I gotta go.,Kate,sadness,negative,56,4,3,22,"00:19:58,530","00:20:00,698",0,0
+584,Vic! Vic!,Lauren,anger,negative,56,5,3,22,"00:20:00,866","00:20:02,325",0,1
+585,In a minute!!,Joey,anger,negative,56,6,3,22,"00:20:05,454","00:20:07,455",0,1
+586,So this is it? Victor?,Lauren,sadness,negative,56,7,3,22,"00:20:09,583","00:20:11,959",0,0
+587,"Yeah, I guess it is.",Joey,sadness,negative,56,8,3,22,"00:20:12,794","00:20:15,755",0,0
+588,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",Joey,sadness,negative,56,9,3,22,"00:20:21,970","00:20:28,643",0,0
+589,"One thing you gotta know, is that I will never forget you.",Joey,sadness,negative,56,10,3,22,"00:20:29,311","00:20:33,898",0,0
+590,"But, youve got things you have to do now, and so do I.",Joey,sadness,negative,56,11,3,22,"00:20:34,149","00:20:39,320",0,0
+591,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",Joey,sadness,negative,56,12,3,22,"00:20:40,989","00:20:57,797",0,0
+592,"But when I return, 200 years from now, youll be long gone.",Joey,sadness,negative,56,13,3,22,"00:20:59,508","00:21:05,471",0,0
+595,"So long, Vic!",Lauren,sadness,negative,56,16,3,22,"00:21:34,293","00:21:36,585",0,0
+600,Hi Monica!,Phoebe,joy,positive,57,3,3,1,"00:01:36,513","00:01:37,846",1,1
+601,Hey Mon!,Ross,joy,positive,57,4,3,1,"0:01:38,014","0:01:38,807",1,1
+602,Hey Mon!,Rachel,joy,positive,57,5,3,1,"0:01:38,807","0:01:39,754",1,1
+609,But then I realized where would a mouse or a opossum get the money to make the phone call.,Phoebe,joy,positive,57,12,3,1,"00:02:03,873","00:02:11,421",1,1
+611,"Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",Ross,disgust,negative,58,1,4,13,"00:05:03,720","00:05:09,558",0,1
+615,Hey Mon! Want some pancakes?,Joey,joy,positive,58,5,4,13,"00:05:14,731","00:05:18,150",1,1
+617,Yep! Grab a plate.,Joey,joy,positive,58,7,4,13,"00:05:18,318","00:05:20,110",1,1
+622,Oh yeah!,Ross,joy,positive,58,11,4,13,"00:05:42,842","00:05:43,925",1,1
+631,"Look, you have done enough! Okay? You have to stop this now.",Chandler,anger,negative,60,2,6,17,"00:17:32,551","00:17:36,012",0,1
+632,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",Monica,joy,positive,60,3,6,17,"00:17:36,180","00:17:42,560",1,1
+634,The Way You Look Tonight,Monica,joy,positive,60,5,6,17,"00:17:45,731","00:17:48,107",1,1
+635,You are just the sweetest.,Monica,joy,positive,60,6,6,17,"00:18:16,136","00:18:19,055",1,1
+637,Hey!,Monica,joy,positive,61,0,3,21,"0:12:46,891","0:12:47,225",1,1
+638,Hey!,Phoebe,joy,positive,61,1,3,21,"0:12:47,225","0:12:48,632",1,1
+642,"Ohh, Monica, I am so excited for you.",Phoebe,joy,positive,61,5,3,21,"00:12:52,730","00:12:56,232",1,1
+645,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",Carol,joy,positive,62,1,6,16,"00:00:59,309","00:01:03,020",1,1
+650,"and then, we couldve gone from the ceremony to the reception with you in the sidecar!",Ross,joy,positive,63,0,8,18,"00:19:36,622","00:19:42,794",1,1
+652,But having a dove place the ring on your finger wouldve been no problem?,Ross,anger,negative,63,2,8,18,"00:19:45,088","00:19:49,593",0,1
+653,It was really fun being married to you tonight.,Rachel,joy,positive,63,3,8,18,"00:19:52,137","00:19:54,056",1,1
+654,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",Ross,joy,positive,63,4,8,18,"00:19:54,222","00:19:57,351",1,1
+655,"Okay Ross, can I uh, can I ask you something?",Rachel,sadness,negative,63,5,8,18,"0:19:58,935","0:20:01,747",0,0
+658,"I know, I know it was stupid.",Ross,sadness,negative,63,8,8,18,"0:20:04,951","0:20:07,383",0,0
+660,"With the, with the lilies, and-and the song, and the stars!",Rachel,joy,positive,63,10,8,18,"0:20:08,278","0:20:13,534",1,1
+661,It wasreally wonderful!,Rachel,joy,positive,63,11,8,18,"0:20:13,617","0:20:16,959",1,1
+672,"Well actually, I-I didnt eat mine. Its still in the bathroom.",Monica,joy,positive,64,1,6,9,"00:22:14,833","00:22:18,085",1,1
+677,And thats Im so glad theres no problem.,Rachel,joy,positive,65,0,4,9,"00:04:17,006","00:04:19,216",1,1
+679,Ohh! Thats great!,Rachel,joy,positive,65,2,4,9,"00:04:24,013","00:04:25,430",1,1
+682,No-ho-ho!,Joanna,joy,positive,65,5,4,9,"0:04:33,541","0:04:36,295",1,1
+686,"Well, I, umm",Rachel,fear,negative,65,9,4,9,"00:04:50,873","00:04:51,873",0,1
+687,"Kidding! God, I feel wild today!",Joanna,joy,positive,65,10,4,9,"00:04:51,873","00:04:57,254",1,1
+692,Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,Phoebe,anger,negative,66,4,7,23,"00:15:01,525","00:15:06,905",0,1
+693,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",Rachel,sadness,negative,66,5,7,23,"00:15:08,032","00:15:12,035",0,0
+700,Hey!,Rachel,joy,positive,67,0,6,19,"0:01:59,953","0:02:01,205",1,1
+701,Hi! Hey!,All,joy,positive,67,1,6,19,"0:02:01,205","0:02:01,361",1,1
+703,"Well, of course I do! My good friend Joey over here.",Chandler,joy,positive,67,3,6,19,"00:02:04,457","00:02:07,417",1,1
+704,"Oh, Im sorry. Thank you Chandler.",Joey,joy,positive,67,4,6,19,"00:02:10,839","00:02:14,299",1,1
+711,Hey!,Rachel,joy,positive,68,0,6,21,"00:02:18,012","00:02:19,054",1,1
+717,I just found out that Elizabeths dad wants to meet me.,Ross,sadness,negative,68,5,6,21,"00:02:28,064","00:02:30,774",0,0
+719,"Come on guys, I-I really want this guy to like me.",Ross,fear,negative,68,7,6,21,"00:02:38,449","00:02:40,742",0,1
+720,It-it would really help me out if you guys were here to make me look good.,Ross,sadness,negative,68,8,6,21,"00:02:40,910","00:02:45,831",0,0
+721,Of course well help! Yeah! Well be here!,All,joy,positive,68,9,6,21,"00:02:43,663","00:02:47,541",1,1
+722,Thanks!,Ross,joy,positive,68,10,6,21,"00:02:45,999","00:02:47,541",1,1
+724,"Oh, hi! How are you doing?",Rachel,joy,positive,69,0,7,8,"00:19:38,969","00:19:41,000",1,1
+725,I'm okay. I gotta go down to the police station and look at mug shots.,Tag,sadness,negative,69,1,7,8,"00:19:40,888","00:19:45,099",0,0
+730,Y-You're going?,Ross,joy,positive,69,4,7,8,"00:19:45,309","00:19:49,437",1,1
+737,"Ah, I-I never should have said what I said.",Rachel,sadness,negative,69,11,7,8,"00:20:09,249","00:20:11,000",0,0
+739,It just doesn't matter how I feel.,Rachel,sadness,negative,69,13,7,8,"0:20:11,920","0:20:13,260",0,0
+740,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",Rachel,sadness,negative,69,14,7,8,"00:20:13,378","00:20:28,309",0,0
+742,"Oh, god, I knew it, that I freaked you out.",Rachel,sadness,negative,69,16,7,8,"00:20:30,896","00:20:34,232",0,0
+743,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",Tag,sadness,negative,69,17,7,8,"00:20:32,232","00:20:38,694",0,0
+745,"Yeah, so, please don't fire me for doing this.",Tag,sadness,negative,69,19,7,8,"00:20:41,000","00:20:45,409",0,0
+746,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",Ross,anger,negative,70,0,1,4,"00:12:16,944","00:12:23,575",0,1
+748,Pass it! Pass it!,Ross,joy,positive,70,2,1,4,"00:12:27,538","00:12:29,831",1,1
+749,He's open!,Chandler,joy,positive,70,3,1,4,"0:12:29,999","0:12:30,511",1,1
+750,Shoot! Shoot! Shoot!,All,joy,positive,70,4,1,4,"0:12:30,511","0:12:33,925",1,1
+752,I am so psyched I kept this chair for myself!,Rachel,joy,positive,71,0,7,13,"00:13:07,620","00:13:11,331",1,1
+758,Yeah! You can hook it up to your TV,Rachel,joy,positive,71,4,7,13,"00:13:26,514","00:13:29,015",1,1
+760,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",Phoebe,anger,negative,72,0,5,11,"00:10:55,738","00:11:03,578",0,1
+761,"Yes! Yes, I did.",Joey,sadness,negative,72,1,5,11,"0:11:03,746","0:11:05,373",0,0
+762,Then do Iceberg!,Phoebe,anger,negative,72,2,5,11,"0:11:05,373","0:11:06,557",0,1
+766,"No, but you're questioning my method!",Phoebe,anger,negative,72,6,5,11,"00:11:22,273","00:11:24,432",0,1
+767,"No, I'm not questioning it, I'm saying it's stupid!  What?!",Joey,anger,negative,72,7,5,11,"00:11:24,600","00:11:30,021",0,1
+769,Y'know none of my other student thought I was stupid.,Phoebe,anger,negative,72,9,5,11,"00:11:34,110","00:11:39,155",0,1
+770,"Your other student, was you!",Joey,anger,negative,72,10,5,11,"00:11:39,657","00:11:42,617",0,1
+771,"Yeah, well, y'know maybe you just need to try a little harder!",Phoebe,anger,negative,72,11,5,11,"00:11:43,911","00:11:47,914",0,1
+772,"Look, maybe I need to try a real teacher!",Joey,anger,negative,72,12,5,11,"00:11:48,082","00:11:49,833",0,1
+773,Right here!,Joey,anger,negative,72,13,5,11,"0:11:49,833","0:11:50,751",0,1
+774,Here!,Joey,anger,negative,72,14,5,11,"0:11:50,751","0:11:52,943",0,1
+776,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,Phoebe,anger,negative,72,16,5,11,"00:12:00,177","00:12:09,811",0,1
+778,"Oh, fine! Take his side!",Phoebe,anger,negative,72,18,5,11,"00:12:13,774","00:12:16,234",0,1
+779,"And shame on you! You should know better, Joey needs to work.  Now come on!",Ross,anger,negative,73,0,5,10,"00:10:28,461","00:10:34,257",0,1
+780,Hey!,Joey,anger,negative,73,1,5,10,"00:10:33,257","00:10:34,257",0,1
+781,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,Ross,anger,negative,73,2,5,10,"00:10:34,425","00:10:38,762",0,1
+782,Hi!,Rachel,joy,positive,74,0,8,3,"0:09:12,969","0:09:13,637",1,1
+784,"Hi.  Umm, I think theres something that we really need to talk about.",Rachel,joy,positive,74,2,8,3,"00:09:14,679","00:09:20,141",1,1
+785,"I think we do. Why dont we go inside?  Look uh, I know why youre here.",Ross,sadness,negative,74,3,8,3,"00:09:20,768","00:09:35,323",0,0
+791,"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",Ross,sadness,negative,74,9,8,3,"00:10:06,606","00:10:16,781",0,0
+799,"Okay, yknow what? Can I, can I talk now?",Rachel,joy,positive,74,17,8,3,"0:10:38,604","0:10:40,648",1,1
+801,"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",Rachel,anger,negative,74,19,8,3,"00:10:48,731","00:11:17,258",0,1
+803,I know!,Chandler,joy,positive,76,0,3,1,"00:16:22,982","00:16:24,524",1,1
+807,"Okay, you know, you know when your in bed, with a woman.",Chandler,joy,positive,76,4,3,1,"00:16:32,491","00:16:35,451",1,1
+809,"And, ah, you know, your fooling around with her.",Chandler,joy,positive,76,6,3,1,"00:16:36,912","00:16:40,248",1,1
+810,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",Chandler,joy,positive,76,7,3,1,"00:16:40,416","00:16:46,671",1,1
+811,"With the belly-button ring? Oh, muhawa!",Ross,joy,positive,76,8,3,1,"00:16:46,839","00:16:49,549",1,1
+812,"I know, And then all of the sudden your Mom pops into your head.",Chandler,anger,negative,76,9,3,1,"00:16:49,717","00:16:52,301",0,1
+813,"And your like 'Mom, get outta here!'",Chandler,anger,negative,76,10,3,1,"00:16:54,054","00:16:57,724",0,1
+814,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",Chandler,anger,negative,76,11,3,1,"00:16:57,975","00:17:06,065",0,1
+817,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",Ross,disgust,negative,76,14,3,1,"00:17:12,573","00:17:18,202",0,1
+823,"Oh what are you kidding? Shes gorgeous, its all Rachel.",Ross,joy,positive,77,3,8,24,"00:17:23,322","00:17:27,075",1,1
+828,Itsits complicated okay?,Ross,sadness,negative,77,8,8,24,"00:17:44,176","00:17:47,513",0,0
+830,"Look, weve been together.",Ross,sadness,negative,77,10,8,24,"0:17:57,272","0:17:58,454",0,0
+832,"And then apart, and then together, and then apart, and now we have a baby.",Ross,sadness,negative,77,12,8,24,"00:18:00,192","00:18:04,738",0,0
+833,Its just if-if we got together again and it didnt work outI could never do that to Emma.,Ross,sadness,negative,77,13,8,24,"00:18:07,658","00:18:16,624",0,0
+834,I mean she-she thinking everything Oh thatsnow me.,Ross,sadness,negative,77,14,8,24,"00:18:18,043","00:18:23,507",0,0
+836,"Since Rachel and I were doing really, were doing really well right now.",Ross,sadness,negative,77,16,8,24,"00:18:28,220","00:18:31,807",0,0
+840,God. I forgot how much I love driving. I have,Rachel,joy,positive,78,0,7,22,"00:09:32,530","00:09:35,490",1,1
+843,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,Ross,anger,negative,78,3,7,22,"00:09:54,093","00:09:57,917",0,1
+844,"I am not horsing around, okay? I am Porsching around.",Rachel,joy,positive,78,4,7,22,"00:09:58,139","00:10:00,390",1,1
+845,Uh-oh.,Rachel,fear,negative,78,5,7,22,"00:10:08,733","00:10:10,775",0,1
+847,Really? You think so?,Rachel,fear,negative,78,7,7,22,"00:10:16,240","00:10:17,657",0,1
+848,I was talking to myself! Youre going down!,Ross,anger,negative,78,8,7,22,"00:10:17,825","00:10:20,619",0,1
+849,Hey honey! I missed you today!,Monica,joy,positive,79,0,9,21,"00:05:26,159","00:05:28,535",1,1
+853,"Ok, trying to turn me on by making a mess?",Monica,joy,positive,79,4,9,21,"00:05:46,429","00:05:49,931",1,1
+854,Know your audience!,Monica,joy,positive,79,5,9,21,"00:05:50,099","00:05:51,683",1,1
+856,We really need to take those tests?,Chandler,sadness,negative,79,7,9,21,"00:06:01,277","00:06:03,403",0,0
+859,But I don't wanna do it in a cup!,Chandler,sadness,negative,79,10,9,21,"00:06:08,910","00:06:12,954",0,0
+867,"We got the grant. Three years, all expenses paid.",Max,joy,positive,80,7,1,10,"00:12:20,406","00:12:25,535",1,1
+870,You wanted to see me Professor Geller?,Elizabeth,joy,positive,81,0,6,19,"0:09:51,882","0:09:53,444",1,1
+873,Oo-oo!,Ross,joy,positive,81,2,6,19,"00:09:59,807","00:10:01,016",1,1
+874,Pretty great! Except I did get a little attitude from the robot.,Joey,joy,positive,82,0,6,21,"00:09:50,006","00:09:53,633",1,1
+875,"Damn those robots, theyre supposed to be our",Chandler,anger,negative,82,1,6,21,"00:09:53,801","00:09:57,137",0,1
+877,"Yeah, he doesnt like me.",Joey,anger,negative,82,3,6,21,"0:10:00,891","0:10:04,063",0,1
+879,knock over the sandwich right when I was reaching for one!,Joey,anger,negative,82,5,6,21,"00:10:02,227","00:10:06,771",0,1
+882,"I may have to, I hate to do it, but Im the star!",Joey,anger,negative,82,8,6,21,"0:10:08,774","0:10:11,706",0,1
+887,"Joe! Im glad I found ya, I got an audition for ya!",Estelle,joy,positive,82,13,6,21,"00:10:22,747","00:10:26,458",1,1
+892,Im the lead in Mac and C.H.E.E.S.E.!!,Joey,anger,negative,82,18,6,21,"00:10:39,597","00:10:41,348",0,1
+893,Oh good God! If you want a baby so bad just go steal it!,Monica,anger,negative,83,0,8,23,"00:10:26,614","00:10:30,117",0,1
+895,Im not crazy about babies. Im crazy about us.,Chandler,joy,positive,83,2,8,23,"00:10:36,791","00:10:41,128",1,1
+900,Were really good.,Chandler,joy,positive,83,7,8,23,"00:10:53,474","00:10:56,143",1,1
+906,"Come on, you saw the way he ran out of here!",Phoebe,sadness,negative,84,4,5,13,"00:09:49,714","00:09:51,172",0,0
+908,He's gonna stick around and talk to the daughter he abandoned!,Phoebe,sadness,negative,84,5,5,13,"00:09:51,382","00:09:54,175",0,0
+912,"Okay, in about ten seconds youre gonna see him kiss me.",Rachel,joy,positive,85,1,8,4,"00:18:14,468","00:18:17,053",1,1
+915,"Okay, get ready to see some beggin!",Rachel,joy,positive,85,4,8,4,"00:18:37,407","00:18:40,409",1,1
+918,Now Im so happy.,Ross,joy,positive,85,7,8,4,"0:18:46,542","0:18:47,724",1,1
+920,You used the Europe story!,Monica,joy,positive,85,9,8,4,"0:18:50,227","0:18:52,106",1,1
+921,Thats the magic story you use when you wanna have sex!,Chandler,anger,negative,85,10,8,4,"00:18:52,214","00:18:55,675",0,1
+936,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",Charlie,joy,positive,87,4,9,20,"00:08:58,734","00:09:03,572",1,1
+940,"Phoebe, dont get upset!",Monica,sadness,negative,88,3,8,14,"00:01:18,320","00:01:19,960",0,0
+941,OkayOop! Too late! Im leaving! Come on Chandler lets go!,Phoebe,anger,negative,88,4,8,14,"00:01:20,200","00:01:25,240",0,1
+943,Ben!,Joey,fear,negative,89,0,2,6,"00:12:04,348","00:12:05,348",0,1
+944,"Oh, that's good. Maybe he'll hear you and pull the cord.",Chandler,anger,negative,89,1,2,6,"00:12:06,767","00:12:10,562",0,1
+945,Stop the bus! Wait! Wait! Wait!,Joey,fear,negative,89,2,2,6,"00:12:10,730","00:12:15,525",0,1
+948,"Oh, I'm sorry, I'm really sorry.",Ross,sadness,negative,89,5,2,6,"0:12:32,293","0:12:34,685",0,0
+949,Sorry.,Ross,sadness,negative,89,6,2,6,"0:12:34,685","0:12:35,144",0,0
+950,Sorry!,Ross,sadness,negative,89,7,2,6,"0:12:35,144","0:12:35,290",0,0
+953,I got my s's back!,Ross,joy,positive,89,8,2,6,"00:12:36,839","00:12:40,467",1,1
+956,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",Rachel,joy,positive,90,0,2,1,"00:11:02,536","00:11:08,208",1,1
+958,"I don't know, I just kinda ran into him last night.",Rachel,fear,negative,90,2,2,1,"00:11:11,212","00:11:13,546",0,1
+961,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",Joey,anger,negative,90,5,2,1,"00:11:17,426","00:11:21,179",0,1
+962,"Oh God, I know I'm a pathetic loser.",Rachel,sadness,negative,90,6,2,1,"00:11:21,347","00:11:24,474",0,0
+967,What is the big deal?,Joey,anger,negative,91,4,2,2,"00:09:21,435","00:09:24,229",0,1
+969,"Ok, would people stop drinking the breast milk?",Ross,disgust,negative,91,6,2,2,"00:09:29,485","00:09:32,904",0,1
+971,No!,Ross,disgust,negative,91,8,2,2,"0:09:36,329","0:09:37,373",0,1
+973,Not even if Carol's breast had a picture of a missing child on it.,Ross,disgust,negative,91,10,2,2,"00:09:39,870","00:09:43,206",0,1
+976,"Hey Pheebs, could you please not put your feet up on my newold sheet?",Ross,disgust,negative,92,1,6,11,"00:12:11,564","00:12:16,735",0,1
+977,Oh sure!  Noo!,Phoebe,joy,positive,92,2,6,11,"00:12:17,278","00:12:18,778",1,1
+982,Noooooo!!,Rachel,fear,negative,92,6,6,11,"0:12:23,326","0:12:24,798",0,1
+985,"Oh my God, Phoebe,",Rachel,anger,negative,92,8,6,11,"00:12:31,375","00:12:33,251",0,1
+986,"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",Phoebe,anger,negative,92,9,6,11,"00:12:39,175","00:12:45,513",0,1
+988,Well this doesnt even smell like opium.,Phoebe,disgust,negative,92,10,6,11,"00:12:47,641","00:12:50,018",0,1
+989,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",Ross,anger,negative,92,11,6,11,"00:12:50,186","00:12:55,356",0,1
+990,How is she?,Rachel,sadness,negative,93,0,2,1,"00:15:03,402","00:15:05,028",0,0
+993,"I'm not gonna lie to you, Ross, it doesn't look good.",Phoebe,sadness,negative,93,3,2,1,"00:15:12,703","00:15:17,206",0,0
+996,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",Phoebe,sadness,negative,93,6,2,1,"00:15:25,883","00:15:31,387",0,0
+998,How're you doing?,Joey,sadness,negative,93,7,2,1,"00:15:38,479","00:15:40,980",0,0
+1000,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",Carol,joy,positive,94,1,2,2,"00:13:15,920","00:13:21,549",1,1
+1001,That would be no.,Ross,disgust,negative,94,2,2,2,"00:13:21,717","00:13:23,551",0,1
+1004,Cantaloupe juice.,Susan,joy,positive,94,5,2,2,"00:13:31,560","00:13:33,686",1,1
+1008,"Oh, you've tasted it.",Ross,anger,negative,94,9,2,2,"00:13:48,410","00:13:50,245",0,1
+1010,Gimme the bottle.  Gimme the towel.,Ross,anger,negative,94,11,2,2,"00:14:03,217","00:14:04,634",0,1
+1011,I still don't get why Greg and Jenny would give us a fake number.,Monica,anger,negative,95,0,8,4,"00:12:36,922","00:12:39,966",0,1
+1013,"Okay, maybe people give out fake numbers, but they dont give out fake names.",Monica,anger,negative,95,2,8,4,"00:12:46,390","00:12:50,226",0,1
+1017,"I know! Although, you did tell an awful lot of jokes.",Monica,anger,negative,95,6,8,4,"00:13:04,492","00:13:08,036",0,1
+1019,Joke. Joke. Blah! Blah!,Monica,anger,negative,95,8,8,4,"00:13:12,875","00:13:15,627",0,1
+1025,"Relax, its not like were forking.",Phoebe,joy,positive,96,3,8,24,"00:04:12,907","00:04:15,493",1,1
+1026,"Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!",Monica,joy,positive,97,0,3,20,"00:03:55,109","00:04:03,992",1,1
+1027,Hey!,Phoebe,joy,positive,97,1,3,20,"0:04:06,204","0:04:06,706",1,1
+1029,Oh! Ooh! Oh Monica! Its so beautiful.,Phoebe,joy,positive,97,3,3,20,"00:04:08,831","00:04:13,835",1,1
+1030,I know!!!,Monica,joy,positive,97,4,3,20,"00:04:11,835","00:04:13,835",1,1
+1031,"So, Im here, ready to play.",Phoebe,joy,positive,97,5,3,20,"0:04:14,963","0:04:16,675",1,1
+1033,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",Phoebe,joy,positive,97,7,3,20,"00:04:17,799","00:04:22,261",1,1
+1035,"Thats a dog, every house should have a dog.",Phoebe,joy,positive,97,9,3,20,"00:04:27,225","00:04:29,559",1,1
+1037,"Well, maybe its so big because the house was built on radioactive waste.",Phoebe,joy,positive,97,11,3,20,"00:04:33,481","00:04:39,403",1,1
+1040,I dont want a ghost.,Monica,fear,negative,97,14,3,20,"00:04:51,249","00:04:55,043",0,1
+1046,I need to talk to you!,Rachel,joy,positive,97,20,3,20,"0:05:21,571","0:05:23,115",1,1
+1048,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",Jeannine,anger,negative,98,0,3,12,"00:05:20,528","00:05:28,076",0,1
+1049,"Please, I'm not going for anything.",Monica,disgust,negative,98,1,3,12,"00:05:24,449","00:05:28,076",0,1
+1050,"Well, if you don't, I will.",Jeannine,anger,negative,98,2,3,12,"0:05:28,244","0:05:29,955",0,1
+1051,Would you please go?,Monica,joy,positive,98,3,3,12,"0:05:29,955","0:05:31,517",1,1
+1052,I would!,Ross,anger,negative,98,4,3,12,"0:05:31,517","0:05:31,727",0,1
+1053,"Hey, guys, guys, did you see my new, china cabinet?!",Monica,joy,positive,99,0,3,20,"00:09:00,831","00:09:04,876",1,1
+1055,"Watch, watch.",Phoebe,joy,positive,99,2,3,20,"00:09:08,256","00:09:09,297",1,1
+1059,"And, and!",Phoebe,joy,positive,99,4,3,20,"0:09:10,717","0:09:12,855",1,1
+1065,Emma!  See? I dont want it.,Rachel,sadness,negative,101,0,8,4,"00:13:27,795","00:13:35,928",0,0
+1069,"Oh honey, but you love that name.",Rachel,sadness,negative,103,1,8,24,"00:13:46,605","00:13:48,816",0,0
+1070,"Yeah, but I love you more.",Monica,joy,positive,103,2,8,24,"00:13:49,817","00:13:51,986",1,1
+1072,So Im screwed.,Monica,joy,positive,103,4,8,24,"0:13:57,909","0:13:59,473",1,1
+1081,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",Chandler,joy,positive,104,0,5,8,"00:20:15,464","00:20:18,925",1,1
+1082,Nice try.,Chandler,sadness,negative,104,1,5,8,"00:20:30,395","00:20:31,520",0,0
+1083,"Wait, wait, wait!",Monica,joy,positive,104,2,5,8,"00:20:31,688","00:20:33,522",1,1
+1086,This is not going to work.,Chandler,anger,negative,104,5,5,8,"00:20:42,366","00:20:43,699",0,1
+1087,I bet this will work!,Monica,joy,positive,104,6,5,8,"00:20:43,867","00:20:45,660",1,1
+1088,You are so great! I love you!,Chandler,joy,positive,104,7,5,8,"00:20:54,086","00:20:56,754",1,1
+1090,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",Chandler,fear,negative,104,9,5,8,"00:21:07,933","00:21:11,852",0,1
+1092,No I didn't!,Chandler,fear,negative,104,11,5,8,"00:21:15,983","00:21:17,108",0,1
+1094,No I didn't!,Chandler,fear,negative,104,13,5,8,"0:21:21,072","0:21:21,468",0,1
+1095,You love me!,Monica,joy,positive,104,14,5,8,"00:21:22,281","00:21:23,823",1,1
+1096,No I don't! Stop it! Stop it! Stop it! Stop it!,Chandler,anger,negative,104,15,5,8,"00:21:24,032","00:21:26,993",0,1
+1099,"Listen, the number that you gave me 853-5   That is their old number!",Monica,anger,negative,105,2,8,4,"00:21:40,590","00:21:47,722",0,1
+1100,Jennys been giving it out since they moved!,Monica,anger,negative,105,3,8,4,"00:21:44,678","00:21:47,722",0,1
+1101,Jenny! That is so Jenny!,Chandler,joy,positive,105,4,8,4,"00:21:47,889","00:21:51,851",1,1
+1105,"Okay umm, the week after that?",Monica,joy,positive,105,8,8,4,"0:21:58,483","0:21:59,568",1,1
+1106,The week after that?,Monica,joy,positive,105,9,8,4,"0:21:59,568","0:22:01,261",1,1
+1107,Yknow what Greg?,Monica,anger,negative,105,10,8,4,"00:22:03,488","00:22:04,947",0,1
+1109,"We are good, interesting, funny people with",Monica,anger,negative,105,11,8,4,"00:22:05,115","00:22:09,410",0,1
+1114,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",Joey,joy,positive,106,4,6,18,"00:02:13,883","00:02:21,306",1,1
+1121,"Oh, okay, I'm having another one!",Phoebe,fear,negative,108,1,5,3,"00:05:35,126","00:05:37,669",0,1
+1123,Ow!,Phoebe,anger,negative,108,3,5,3,"00:05:39,756","00:05:40,756",0,1
+1124,Ow!,Phoebe,anger,negative,108,4,5,3,"0:05:41,132","0:05:41,466",0,1
+1125,Ow!,Phoebe,anger,negative,108,5,5,3,"0:05:41,466","0:05:41,550",0,1
+1126,Ow!,Phoebe,anger,negative,108,6,5,3,"0:05:41,550","0:05:43,135",0,1
+1128,"Oh, I was kinda hoping that was it.",Phoebe,sadness,negative,108,8,5,3,"00:05:46,554","00:05:48,555",0,0
+1131,"Yeah, I love you. Okay, bye!  Hi!",Frank,joy,positive,108,10,5,3,"00:14:10,766","00:14:13,810",1,1
+1132,Hi!,Rachel,joy,positive,108,11,5,3,"00:14:14,812","00:14:15,895",1,1
+1133,"That was Alice's mom, she said she left five hours ago. She should be here by now!",Frank,fear,negative,108,12,5,3,"00:14:16,105","00:14:20,567",0,1
+1137,But sadly I could not be enticed.,Joey,joy,positive,109,1,5,9,"00:20:47,371","00:20:50,331",1,1
+1138,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,Ross,disgust,negative,109,2,5,9,"00:20:51,875","00:20:58,714",0,1
+1139,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,Monica,sadness,negative,109,3,5,9,"00:21:02,594","00:21:11,185",0,0
+1140,"Well, I think we've all learned something about who's disgusting and who's not.",Joey,anger,negative,109,4,5,9,"00:21:15,148","00:21:20,403",0,1
+1150,"God, oh its just perfect!",Phoebe,joy,positive,110,5,6,11,"00:07:05,925","00:07:09,219",1,1
+1152,I bet it has a great story behind it too.,Phoebe,joy,positive,110,6,6,11,"00:07:09,387","00:07:11,596",1,1
+1155,"Yes! That I know, this is from White Plains.",Rachel,joy,positive,110,8,6,11,"00:07:14,058","00:07:16,935",1,1
+1156,"White Plains. Oh, it sounds like such a magical place.",Phoebe,joy,positive,110,9,6,11,"00:07:19,188","00:07:23,608",1,1
+1157,"So, you still dont think Im boyfriend material?",Chandler,anger,negative,111,0,3,25,"00:11:50,876","00:11:55,588",0,1
+1160,"I, umm, shut up!",Phoebe,anger,negative,112,0,4,1,"00:13:29,892","00:13:32,101",0,1
+1161,Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!,Phoebe,sadness,negative,112,1,4,1,"00:13:36,732","00:13:44,781",0,0
+1163,Noooo!!,Phoebe,sadness,negative,112,3,4,1,"00:13:53,499","00:13:55,166",0,0
+1166,But I,Rachel,sadness,negative,113,1,6,2,"0:18:59,513","0:19:00,015",0,0
+1168,"Just let me finish, okay?",Monica,sadness,negative,113,3,6,2,"0:19:02,147","0:19:02,469",0,0
+1173,"I mean were not, were not gonna live together anymore?",Rachel,sadness,negative,113,8,6,2,"00:19:23,620","00:19:27,540",0,0
+1174,No.,Monica,sadness,negative,113,9,6,2,"00:19:28,792","00:19:29,876",0,0
+1175,What? Oh my God! Im gonna miss you so much!,Rachel,sadness,negative,113,10,6,2,"00:19:33,213","00:19:35,965",0,0
+1176,Im gonna miss you!,Monica,sadness,negative,113,11,6,2,"00:19:36,175","00:19:37,967",0,0
+1177,I mean its the end of an era!,Rachel,sadness,negative,113,12,6,2,"00:19:39,094","00:19:40,928",0,0
+1178,I know!,Monica,sadness,negative,113,13,6,2,"00:19:41,138","00:19:42,638",0,0
