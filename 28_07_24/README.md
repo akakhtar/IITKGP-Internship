@@ -1,4 +1,5 @@
 Steps: 
+
 1)** Mapping**: emotions to valence and arousal, also ignoring where emotion is 'neutral' and 'surprise'.
 
 2)** Splitting**: splitting of the CSV file based on the 6 speakers for each of the three folders.
