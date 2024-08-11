@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 
-train = pd.read_csv('../Self Report Features/ross_train.csv')
-test = pd.read_csv('../Self Report Features/ross_test.csv')
+train = pd.read_csv('../Self Report Features/Final Speakers Data/rachel_train.csv')
+test = pd.read_csv('../Self Report Features/Final Speakers Data/rachel_test.csv')
 
 print(f"Shape of Train Data Set : {train.shape}")
 print(f"Shape of Test Data Set : {test.shape}")

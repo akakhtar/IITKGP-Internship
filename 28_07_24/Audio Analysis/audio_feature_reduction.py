@@ -6,8 +6,8 @@ from sklearn.decomposition import KernelPCA
 
 # train = pd.read_csv('../Speakers/Ross/ross_train.csv')
 # test = pd.read_csv('../Speakers/Ross/ross_test.csv')
-train = pd.read_csv('../Self Report Features/ross_train.csv')
-test = pd.read_csv('../Self Report Features/ross_test.csv')
+train = pd.read_csv('../Self Report Features/Final Speakers Data/rachel_train.csv')
+test = pd.read_csv('../Self Report Features/Final Speakers Data/rachel_test.csv')
 
 print(f"Spahe of Train Data Set : {train.shape}")
 print(f"Spahe of Test Data Set : {test.shape}")
@@ -58,5 +58,5 @@ test["audio_feature"] = audio_reduced_test
 # print("New Train csv file for the speaker added with reduced audio feature!")
 # test.to_csv('../Speakers/Ross/ross_test.csv', index=False)
 # print("New Test csv file for the speaker added with reduced audio feature!")
-train.to_csv('../Self Report Features/ross_train.csv', index=False)
-test.to_csv('../Self Report Features/ross_test.csv', index=False)
+train.to_csv('../Self Report Features/Final Speakers Data/rachel_train.csv', index=False)
+test.to_csv('../Self Report Features/Final Speakers Data/rachel_test.csv', index=False)

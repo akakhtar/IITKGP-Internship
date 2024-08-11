@@ -4,7 +4,7 @@ import os
 # directory = "../Speakers/Dev"
 # directory = "../Speakers/Test"
 # directory = "../Speakers/Train"
-directory = "../Self Report Features"
+directory = "../Self Report Features/Final Speakers Data"
 
 def transition_matrix(data):
     transition_counts = np.zeros((2, 2))
@@ -89,15 +89,15 @@ def calculate_influence(data, transition_probabilities):
     return data
 
 
-for filename in os.listdir(directory):
-    if filename.endswith('.csv'):
-        file_path = os.path.join(directory, filename)
-        df = pd.read_csv(file_path)
-        df['Influence_0'] = float(0)
-        df['Influence_1'] = float(0)
-        df['Sequence_Length'] = 0
 
-        transition_matrix_value = transition_matrix(df)
-        print(f"Transition matrix for {filename} :\n{transition_matrix_value}\n")
-        df = calculate_influence(df, transition_matrix_value)
-        df.to_csv(file_path, index=False)
+filename = "rachel_joint.csv"
+file_path = os.path.join(directory, filename)
+df = pd.read_csv(file_path)
+df['Influence_0'] = float(0)
+df['Influence_1'] = float(0)
+df['Sequence_Length'] = 0
+
+transition_matrix_value = transition_matrix(df)
+print(f"Transition matrix for {filename} :\n{transition_matrix_value}\n")
+df = calculate_influence(df, transition_matrix_value)
+df.to_csv(file_path, index=False)

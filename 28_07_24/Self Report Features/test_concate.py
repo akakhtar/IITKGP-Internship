@@ -2,16 +2,16 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-df_train = pd.read_csv("../Speakers/Train/Ross_train.csv")
-df_dev = pd.read_csv("../Speakers/Dev/Ross_dev.csv")
-df_test = pd.read_csv("../Speakers/Test/Ross_test.csv")
+df_train = pd.read_csv("../Speakers/Train/Rachel_train.csv")
+df_dev = pd.read_csv("../Speakers/Dev/Rachel_dev.csv")
+df_test = pd.read_csv("../Speakers/Test/Rachel_test.csv")
 
 df = pd.concat([df_train,df_dev,df_test],ignore_index=False)
 print(f"Dialogue id in joint df:\n{df['Dialogue_ID']}")
 
 df = df.sort_values(by=['Dialogue_ID','Utterance_ID'],ascending=[True,True])
 df = df.reset_index(drop=True)
-df = df.drop(columns=['Scene_ID','Influence_0','Influence_1','Sequence_Length','Unnamed: 15','Unnamed: 16','Unnamed: 17'])
+df = df.drop(columns=['Scene_ID','Influence_0','Influence_1','Sequence_Length'])
 
 # Print the entire sorted DataFrame
 print("Sorted DataFrame:")
@@ -35,7 +35,7 @@ def add_scene_number():
         df.at[index, 'Scene_ID'] = current_scene_number
 
 add_scene_number()
-df.to_csv('ross_joint.csv',index=False)
+df.to_csv('Final Speakers Data/rachel_joint.csv',index=False)
 
 # train, test = train_test_split(df, test_size=0.25, shuffle=False)
 # print(f"Shape of Train Data Set : {train.shape}")
