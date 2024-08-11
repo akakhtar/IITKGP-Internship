@@ -10,7 +10,7 @@ from sklearn.decomposition import KernelPCA
 # df_dev = pd.read_csv('../Speakers/Dev/Rachel_dev.csv')
 #
 # df = pd.concat([df_train, df_test, df_dev], ignore_index=True)
-df = pd.read_csv('../Self Report Features/Final Speakers Data/rachel_joint.csv')
+df = pd.read_csv('../Self Report Features/Final Speakers Data/monica_joint.csv')
 print(f"Shape of Combined Data Set : {df.shape}")
 
 count = df["landmarks"].value_counts().get("{}", 0)
@@ -65,5 +65,5 @@ print(f"Shape of test dataset after adding facial_feature: {test.shape}")
 # print("New Train csv file for the speaker added!")
 # test.to_csv('../Speakers/Ross/ross_test.csv', index=False)
 # print("New Test csv file for the speaker added!")
-train.to_csv('../Self Report Features/Final Speakers Data/rachel_train.csv', index=False)
-test.to_csv('../Self Report Features/Final Speakers Data/rachel_test.csv', index=False)
+train.to_csv('../Self Report Features/Final Speakers Data/monica_train.csv', index=False)
+test.to_csv('../Self Report Features/Final Speakers Data/monica_test.csv', index=False)

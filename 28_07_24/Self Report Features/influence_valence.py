@@ -90,7 +90,7 @@ def calculate_influence(data, transition_probabilities):
 
 
 
-filename = "rachel_joint.csv"
+filename = "monica_joint.csv"
 file_path = os.path.join(directory, filename)
 df = pd.read_csv(file_path)
 df['Influence_0'] = float(0)

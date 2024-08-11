@@ -66,8 +66,8 @@ def audio_analysis_file(video_folder, csv_file):
     df.to_csv(csv_file, index=False)
     print("CSV file updated")
 
-video_folder = "../../Dataset/Dev/"
-csv_file = '../Speakers/Dev/Monica_dev.csv'
+video_folder = "../../../CMED_Internship/Dataset/Test/"
+csv_file = '../Speakers/Test/Monica_test.csv'
 startTime = time.time()
 audio_analysis_file(video_folder, csv_file)
 endTime = time.time()

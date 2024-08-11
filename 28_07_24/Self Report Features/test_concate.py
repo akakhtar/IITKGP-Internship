@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-df_train = pd.read_csv("../Speakers/Train/Rachel_train.csv")
-df_dev = pd.read_csv("../Speakers/Dev/Rachel_dev.csv")
-df_test = pd.read_csv("../Speakers/Test/Rachel_test.csv")
+df_train = pd.read_csv("../Speakers/Train/Monica_train.csv")
+df_dev = pd.read_csv("../Speakers/Dev/Monica_dev.csv")
+df_test = pd.read_csv("../Speakers/Test/Monica_test.csv")
 
 df = pd.concat([df_train,df_dev,df_test],ignore_index=False)
 print(f"Dialogue id in joint df:\n{df['Dialogue_ID']}")
@@ -35,7 +35,7 @@ def add_scene_number():
         df.at[index, 'Scene_ID'] = current_scene_number
 
 add_scene_number()
-df.to_csv('Final Speakers Data/rachel_joint.csv',index=False)
+df.to_csv('Final Speakers Data/monica_joint.csv',index=False)
 
 # train, test = train_test_split(df, test_size=0.25, shuffle=False)
 # print(f"Shape of Train Data Set : {train.shape}")
