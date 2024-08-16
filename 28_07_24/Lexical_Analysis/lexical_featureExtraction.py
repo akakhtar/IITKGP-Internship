@@ -1,5 +1,7 @@
 import re
 import time
+
+import pandas as pd
 import torch
 import numpy as np
 from transformers import BertTokenizer, BertModel
@@ -7,12 +9,18 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import KernelPCA
 
-startTimeModel = time.time()
+
 # Load pre-trained BERT model and tokenizer
+startTimeModel = time.time()
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 endTimeModel = time.time()
 print(f"Time taken to load pre-trained BERT model: {endTimeModel-startTimeModel}")
+
+#Loading of data set
+train = pd.read_csv('../Self Report Features/Final Speakers Data/ross_train.csv')
+test = pd.read_csv('../Self Report Features/Final Speakers Data/ross_test.csv')
+
 
 def preprocess_text(text):
     # Remove character encoding artifacts
@@ -35,28 +43,29 @@ def get_bert_features(text):
 
     return cls_embeddings.squeeze().numpy()
 
+def get_combined_features(data):
+    features = []
+    for index, row in data.iterrows():
+        features.append(get_bert_features(row['Utterance']))
+    return features
 
-# Example usage
-anger = "AhÂ… AhÂ…Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on MarionÂ’s views on evolution?"
-sadness = "Listen, IÂ’m ah, IÂ’m sorry IÂ’ve been so crazy and jealous and, itÂ’s just that I like you a lot, so..."
-joy = "Wow! It looks like we got a lot of good stuff."
-disgust = "SheÂ’ll drive us totally crazy."
-fear = "I know!  Don't switch hands, okay?"
-text = [anger,sadness,joy,disgust,fear]
-emotions = ["anger","sadness","joy","disgust","fear"]
-features = []
+train_features = get_combined_features(train)
+test_features = get_combined_features(test)
 
-startTime = time.time()
-for i in range(len(text)):
+scaler  = StandardScaler()
+scaled_features = scaler.fit_transform(train_features)
+kpca = KernelPCA(n_components=1,kernel='rbf',eigen_solver='arpack')
+train_features_reduced = kpca.fit_transform(scaled_features)
 
-    feature = get_bert_features(text[i])
-    features.append(feature)
-endTime = time.time()
+train["lexical_feature"] = train_features_reduced
 
-scaler = StandardScaler()
-features_scaled = scaler.fit_transform(features)
-kpca = KernelPCA(n_components=1,kernel="rbf",eigen_solver='arpack')
-features_reduced = kpca.fit_transform(features_scaled)
-print(features_reduced)
-print(f"Time taken: {endTime-startTime}")
+scaled_test_features = scaler.transform(test_features)
+test_features_reduced = kpca.transform(scaled_test_features)
+test["lexical_feature"] = test_features_reduced
+
+train.to_csv('../Self Report Features/Final Speakers Data/ross_train.csv', index=False)
+test.to_csv('../Self Report Features/Final Speakers Data/ross_test.csv', index=False)
+
+
+
 

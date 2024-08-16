@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 
-train = pd.read_csv('../Self Report Features/Final Speakers Data/monica_train.csv')
-test = pd.read_csv('../Self Report Features/Final Speakers Data/monica_test.csv')
+train = pd.read_csv('../Self Report Features/Final Speakers Data/ross_train.csv')
+test = pd.read_csv('../Self Report Features/Final Speakers Data/ross_test.csv')
 
 print(f"Shape of Train Data Set : {train.shape}")
 print(f"Shape of Test Data Set : {test.shape}")
@@ -18,10 +18,10 @@ print("\nCount of arousal :")
 print(f"Train: \n{train['arousal'].value_counts()}")
 print(f"Test : \n{test['arousal'].value_counts()}")
 
-X_train = train[['Influence_0', 'Influence_1', 'Sequence_Length','audio_feature','facial_feature']]
+X_train = train[['Influence_0', 'Influence_1', 'Sequence_Length','lexical_feature','audio_feature','facial_feature']]
 y_train = train['valence']
 
-X_test = test[['Influence_0', 'Influence_1', 'Sequence_Length','audio_feature','facial_feature']]
+X_test = test[['Influence_0', 'Influence_1', 'Sequence_Length','lexical_feature','audio_feature','facial_feature']]
 y_test = test['valence']
 
 model = RandomForestClassifier(n_estimators=100, criterion='entropy', max_depth=10, random_state=42)
